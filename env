@@ -1,0 +1,3 @@
+MONGO_DB_URL = mongodb+srv://0000:1111@cluster0.codlb.mongodb.net/social
+API_KEY=1234
+PORT = 5000
